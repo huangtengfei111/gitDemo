@@ -14,6 +14,9 @@ public class Test {
 
         //修复bug
         System.out.println(66666);
+
+        //打标签
+        System.out.println(777);
     }
     
     public  void test(){
